@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MirRoser
 - 👀 I’m interested in electrical engineering and home automation.
-- 🌱 I’m currently learning how to make home smart with IOT devices
+- 🌱 I’m currently learning how to make the smart home with IOT devices.
 - 💞️ I’m looking to collaborate on different IOT Smart home projects.
 - 📫 I'm reachable on mail miran.roser22@gmail.com.
 
